@@ -1,6 +1,6 @@
 {
   "name": "com.vadimskyi.androidnativeutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Android Native Utils",
   "description": "Contains native helpers methods for wifi management, navigation bar visibility and color, screen brightness, ip related information and more...",
   "unity": "2018.3",
