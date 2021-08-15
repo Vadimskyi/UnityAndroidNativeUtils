@@ -39,7 +39,7 @@ namespace VadimskyiLab.Android
                         return wifiManager.Call<bool>("isWifiEnabled");
                     }
                 }
-                catch (Exception e)
+                catch
                 {
                     return false;
                 }
